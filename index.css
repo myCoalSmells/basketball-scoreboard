@@ -1,0 +1,14 @@
+body {
+    margin: auto;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.scores {
+    display: flex;
+    justify-content: space-around;
+}
